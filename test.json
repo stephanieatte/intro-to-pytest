@@ -1,0 +1,18 @@
+[{
+    "id": "488d54fe-8a48-5bea-ecfe-06300c592b66",
+    "scope": "TestSuite::SecurityScan",
+    "name": "CustomerService.Tests.UnitTest1.Test1",
+    "identifier": "Identifier",
+    "location": "/Users/stephanie/test/new-ta/test-analytics/CustomerService.Tests/bin/Debug/net8.0/CustomerService.Tests.dll"",
+    "file_name": "/Users/stephanie/test/new-ta/test-analytics/CustomerService.Tests/bin/Debug/net8.0/CustomerService.Tests.dll",
+    "result": "skipped",
+    "failure_reason": "Expected: X. Found: Y",
+    "failure_expanded": [],
+    "history": {
+    "start_at": 347611.724809,
+    "end_at": 347611.725842,
+    "duration": 0.0010330,
+    "children": []
+    }
+}]
+
